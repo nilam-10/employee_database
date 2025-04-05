@@ -19,7 +19,6 @@ class Employee(models.Model):
     monthly_salary = models.DecimalField(max_digits=10, decimal_places=2, verbose_name="Monthly Salary")
     date_joined = models.DateField(verbose_name="Date of Joining")
 
-    is_active = models.BooleanField(default=True)
 
     @property
     def term_in_company(self):
