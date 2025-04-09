@@ -1,4 +1,4 @@
-# 🧑‍🎓 Employee CRUD Application (Django)
+# Employee CRUD Application (Django)
 
 A simple yet powerful web application built using Django that allows you to perform **Create, Read, Update, Delete (CRUD)** operations on Employee records.
 
